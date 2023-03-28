@@ -77,3 +77,23 @@
     max-width: 1170px;
   }
 }
+
+/*---------------------------------------------------------------------*/
+
+@media (max-width: 767px) {
+  .horarios {
+    margin-left: -160px;
+  }
+}
+
+@media (max-width: 520px) {
+  .horarios {
+    margin-left: -110px;
+  }
+}
+
+@media (max-width: 500px) {
+  .horarios {
+    margin-left: -130px;
+  }
+}
